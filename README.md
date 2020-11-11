@@ -3,16 +3,32 @@
 > Legal Documents
 
 ```
-├── 15_CFR740.6_software_export_control.md
-├── COMPLIANCE_RECORDS.md
-├── DATA_BREACH_POLICY.md
-├── DOCUMENT_DISCLAIMER.md
-├── DOCUMENT_RETENTION_POLICY.md
-├── INCIDENT_RESPONSE_TREAM.md
-├── NETWORK_VALIDATOR.md
-├── SOFTWARE_DEFECTS.md
-├── TOS_FOR_DOCUMENTS.md
-├── WEBSITE_DISCLAIMER.md
+├── [1.6K]  BSD_4_CLAUSE
+├── [ 755]  LICENSE
+├── [ 428]  NETWORK_BANNER_NOTICE.txt
+├── [4.9K]  NETWORK_RULES_OF_BEHAVIOR.adoc
+├── [ 803]  NIST_NETWORK_BANNER
+├── [3.1K]  README.md
+├── [ 769]  _index
+├── [ 480]  docs/
+│   ├── [1.6K]  15_CFR740.6_software_export_control.md
+│   ├── [ 14K]  COMPLIANCE_RECORDS.md
+│   ├── [1.5K]  DATA_BREACH_POLICY.md
+│   ├── [1.1K]  DOCUMENT_DISCLAIMER.md
+│   ├── [ 13K]  DOCUMENT_RETENTION_POLICY.md
+│   ├── [ 11K]  INCIDENT_RESPONSE.md
+│   ├── [ 34K]  NETWORK_VALIDATOR.md
+│   ├── [ 216]  README.md
+│   ├── [4.3K]  SOFTWARE_DEFECTS.md
+│   ├── [4.0K]  TOS_FOR_DOCUMENTS.md
+│   ├── [3.6K]  WEBSITE_DISCLAIMER.md
+│   └── [ 458]  package.json*
+├── [ 635]  package.json
+├── [  96]  pdf/
+│   └── [ 39K]  Militarily_Critical_Technical_DataAgreement.pdf
+├── [  96]  release/
+│   └── [ 34K]  lega_docs_v1.zip
+└── [  76]  template_generate.sh
 ```
 
 ## Overview
