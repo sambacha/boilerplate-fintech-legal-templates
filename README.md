@@ -15,8 +15,7 @@
 ├── WEBSITE_DISCLAIMER.md
 ```
 
-
-## Overview 
+## Overview
 
 These materials are intended for general informational and educational purposes only.
 Users are responsible for obtaining legal or business advice from their own lawyer or

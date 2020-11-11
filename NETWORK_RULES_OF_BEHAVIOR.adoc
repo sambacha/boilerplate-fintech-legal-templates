@@ -1,0 +1,118 @@
+= End User Rules of Behavior
+
+({{ NETWORK_SERVICE }} stands for "{{ FULL_SERVICE_NAME }}")
+
+As a {{ NETWORK_SERVICE }}  user, you must understand and agree to these rules
+of behavior prior to being granted access to the {{ NETWORK_SERVICE }} computer
+network 
+which will provide you internet and intranet connectivity, electronic mail,
+network file storage, and network printing capability.
+
+[WARNING]
+====
+By Connecting to the {{ FULL_SERVICE_NAME }} you agree to the rules setforth in
+this document ("Rules of Behavior") and the F{{ POLICY_BOOK }} ("RuleBook").
+====
+
+
+You are accountable for your actions and responsible for the security of {{
+NETWORK_SERVICE }} information.
+
+Upon being granted access to {{ NETWORK_SERVICE }} information resources, you
+will be held responsible for damage caused to {{ NETWORK_SERVICE }} information
+either through negligence or a willful act.
+
+Failure to follow these rules will result in disciplinary action up to and
+including termination of network access and/or clearing participation in
+addition to applicable legal action.
+
+== Rules of Behavior
+
+As a {{ NETWORK_SERVICE }} computer network user, I will:
+
+. Handle and retain all system outputs in accordance with information
+classifications and records management requirements (e.g.
+GDPR, Confidential, trade secrets, and/or propreitary information);
+. Ensure the security of network information, equipment, keys, and my {{
+NETWORK_SERVICE }} Access card (e.g.
+hardware based authentication like a trezor or yubico);
+. Not attempt to access information or information systems for which access has
+not been authorized;
+. Not share passwords and/or my {{ NETWORK_SERVICE }} Access card personal
+identification number and/or private keys;
+. Not use network information, equipment, keys and/or my {{ NETWORK_SERVICE }}
+Access card for activities that are illegal and/or inappropriate;
+. Consent to monitoring and have no expectation of privacy when using the main
+network and/or the {{ NETWORK_SERVICE }} blockchain network;
+. Not attempt to install software onto network nodes that has not been
+expressely authorized on main net ("production network") nodes;
+. Not attempt to connect personal devices or other unauthorized computer
+equipment to the {{ NETWORK_SERVICE }} computer network without appropriate
+authorization;
+. Not post private network information on external websites or services without
+prior appropriate authorization;
+. Not attempt to alter and/or disable Government computer configurations and
+security settings without prior appropriate authorization;
+
+== Incidents and Reporting
+
+Immediately report suspected computer security incidents and provide full
+cooperation in accordance with your designated person of contact and our rapid
+incident response team (NRIRT).
+
+[IMPORTANT]
+====
+"Central Network Operations Command"
+
+ Network users have direct access to CNOC (see-nOK) 24/7 365 days a year. <br>
+ Network Rapid Incident Response Team
+ email: admin@freighttrust.com
+====
+
+[WARNING]
+====
+NOTICE TO USERS OF {{ LEGAL.ENTITY.IDENTIFIER }} PROVIDED NETWORKED INFORMATION
+SYSTEMS
+====
+
+=== Notice
+
+[[THIS IS A NOTICE OF MONITORING OF THEd ({{ NETWORK_SERVICE }}) INFORMATION
+SYSTEMS]]
+
+This BLOCKCHAIN system, including all related equipment, networks, and network
+devices (including Internet access), is provided by {{ LEGAL.ENTITY.IDENTIFIER
+}}.
+ All users shall abide by the rules in accordance with the rulebook and/or
+policies setforth for official (i.e.
+"business") use and limited personal use.
+
+All {{ NETWORK_SERVICE }} computer systems may be monitored for all lawful
+purposes, including but not limited to, ensuring that use is authorized, for
+management of the system, to facilitate protection against unauthorized access,
+and to verify security procedures, survivability and operational security.
+Any information on this computer system may be examined, recorded and copied and
+used for authorized purposes at any time.
+
+All information, including personal information, placed or sent over this system
+may be monitored, and users of this system are reminded that such monitoring
+does occur.
+Therefore, there should be no expectation of privacy with respect to use of this
+system.
+
+By logging into this {{ NETWORK_SERVICE }} computer system, you acknowledge and
+consent to monitoring of this system.
+*Evidence of your use, authorized and unauthorized, collected during monitoring
+may be used for civil, criminal, administrative, or other adverse action.
+Unauthorized or illegal use may subject you to prosecution.*
+
+By submitting this form, I certify that I have read, understand, and agree to
+abide by the Rules of Behavior for Blockchain Network Users and Warning Banner.
+I understand that failure to abide by these rules of behavior will result in
+disciplinary action.
+
+
+
+---
+(c) 2020 {{ LEGAL.ENTITY.IDENTIFIER }}
+

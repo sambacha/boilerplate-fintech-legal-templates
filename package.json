@@ -13,7 +13,7 @@
     "WEBSITE_DISCLAIMER.md"
   ],
   "scripts": {
-  "generate" "bash template_generate.sh"
+    "generate": "bash template_generate.sh"
   },
   "keywords": [
     "boilerplate",

@@ -1,7 +1,7 @@
 ---
 title: Document Retention Policy
 description: Records Managment Procedures
-contact:  point person <email@$ORG.com>
+contact: point person <email@$ORG.com>
 version: 2020-11
 ---
 
