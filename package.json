@@ -1,6 +1,6 @@
 {
-  "name": "boilerplate-templates-for-startups",
-  "version": "1.0.0",
+  "name": "boilerplate-templates-for-fintech",
+  "version": "1.0.1",
   "description": "",
   "files": [
     "COMPLIANCE_RECORDS.md",
@@ -12,7 +12,9 @@
     "SOFTWARE_DEFECTS.md",
     "WEBSITE_DISCLAIMER.md"
   ],
-  "scripts": {},
+  "scripts": {
+  "generate" "bash template_generate.sh"
+  },
   "keywords": [
     "boilerplate",
     "enterprise planning"
