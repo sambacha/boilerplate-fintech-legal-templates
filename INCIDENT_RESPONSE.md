@@ -1,3 +1,10 @@
+---
+title: Incident Response Plan
+point of contact: <contact@$ORG.com>
+version: 2020-11-01
+description: Cybersecurity and Response Program
+---
+
 # Incident Response Plan
 
 As part of our cybersecurity program, we have established a written
