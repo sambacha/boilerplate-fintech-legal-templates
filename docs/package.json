@@ -1,0 +1,19 @@
+{
+  "name": "legal-fintech-templates",
+  "version": "0.0.1",
+  "description": "boilerplate legal resources for fintech",
+  "main": "index.js",
+  "authors": {
+    "name": "the contributors",
+    "email": "noreply@github.com"
+  },
+  "repository": "https//github.com/sambacha/legal-fintech-templates",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

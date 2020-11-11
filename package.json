@@ -13,12 +13,17 @@
     "WEBSITE_DISCLAIMER.md"
   ],
   "scripts": {
-    "generate": "bash template_generate.sh"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "keywords": [
     "boilerplate",
     "enterprise planning"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
+  }
 }
