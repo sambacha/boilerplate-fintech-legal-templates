@@ -1,0 +1,11 @@
+*.md     text
+*.docx diff=word
+*.md diff=word
+
+git_ssh text eol=lf
+repo text eol=lf
+hooks/* text eol=lf
+*.xml    text
+*.yml    text
+LICENSE* text
+

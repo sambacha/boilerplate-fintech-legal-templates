@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate-templates-for-startups",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "COMPLIANCE_RECORDS.md",
+    "DATA_BREACH_POLICY.md",
+    "DOCUMENT_DISCLAIMER.md",
+    "DOCUMENT_RETENTION_POLICY.md",
+    "INCIDENT_RESPONSE_TREAM.md",
+    "NETWORK_VALIDATOR.md",
+    "SOFTWARE_DEFECTS.md",
+    "WEBSITE_DISCLAIMER.md"
+  ],
+  "scripts": {},
+  "keywords": [
+    "boilerplate",
+    "enterprise planning"
+  ],
+  "author": "",
+  "license": "ISC"
+}
