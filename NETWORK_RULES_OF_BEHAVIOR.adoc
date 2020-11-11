@@ -1,3 +1,9 @@
+---
+title: Network Behavior Agreement
+description: End User Guidelines on Prohibited Activites
+version: 2020-11-01
+---
+
 = End User Rules of Behavior
 
 ({{ NETWORK_SERVICE }} stands for "{{ FULL_SERVICE_NAME }}")
