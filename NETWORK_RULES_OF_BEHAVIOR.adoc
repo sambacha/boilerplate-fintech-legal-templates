@@ -6,12 +6,12 @@ As a {{ NETWORK_SERVICE }}  user, you must understand and agree to these rules
 of behavior prior to being granted access to the {{ NETWORK_SERVICE }} computer
 network 
 which will provide you internet and intranet connectivity, electronic mail,
-network file storage, and network printing capability.
+network file storage, and network printing capability, {{ ADD_SERVICE_DETAILS }}
 
 [WARNING]
 ====
 By Connecting to the {{ FULL_SERVICE_NAME }} you agree to the rules setforth in
-this document ("Rules of Behavior") and the F{{ POLICY_BOOK }} ("RuleBook").
+this document ("Rules of Behavior") and the {{ POLICY_BOOK }} ("RuleBook").
 ====
 
 
@@ -66,7 +66,7 @@ incident response team (NRIRT).
 
  Network users have direct access to CNOC (see-nOK) 24/7 365 days a year. <br>
  Network Rapid Incident Response Team
- email: admin@freighttrust.com
+ email: admin@$ORG.com
 ====
 
 [WARNING]
@@ -77,7 +77,7 @@ SYSTEMS
 
 === Notice
 
-[[THIS IS A NOTICE OF MONITORING OF THEd ({{ NETWORK_SERVICE }}) INFORMATION
+[[THIS IS A NOTICE OF MONITORING OF ({{ NETWORK_SERVICE }}) INFORMATION
 SYSTEMS]]
 
 This BLOCKCHAIN system, including all related equipment, networks, and network
