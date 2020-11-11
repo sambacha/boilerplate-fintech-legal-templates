@@ -1,3 +1,10 @@
+---
+title: Document Retention Policy
+description: Records Managment Procedures
+contact:  point person <email@$ORG.com>
+version: 2020-11
+---
+
 ## DOCUMENT RETENTION POLICY
 
 {{ LEGAL.ENTITY.NAME }} Records Management Officer
