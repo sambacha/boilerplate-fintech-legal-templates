@@ -41,7 +41,7 @@ security bugs is detailed below:
 1.  The person discovering the issue, the reporter, reports the
     vulnerability privately to
 
-`admin@freighttrust.com ops@freighttrust.com`
+`admin@{{ DOMAIN }}.com ops@{{ DOMAIN }}.com`
 
 1.  Messages that do not relate to the reporting or managing of an
     undisclosed security vulnerability in our software are ignored and
