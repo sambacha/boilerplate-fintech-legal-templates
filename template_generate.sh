@@ -1,2 +1,3 @@
-#!/bin/sh
-git grep -l "{{"$1"}}" | xargs sed -i 's/{{"$1"}}$COMPANY_NAME/g'
+#!/bin/bash
+COMPANY_NAME='Acme Inc.'
+git grep -l "{{"LEGAL.ENTITY.NAME"}}" | xargs sed -i 's/{{"LEGAL.ENTITY.NAME"}}/$COMPANY_NAME/g'
